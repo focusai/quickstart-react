@@ -99,7 +99,7 @@ const App = () => {
 
 const assistantOptions = {
   name: "Vapi’s Pizza Front Desk",
-  firstMessage: "Hi Rain, what kind of advanture shoudl we go on today?",
+  firstMessage: "Hi Rain, what kind of Adventure should we go on today?",
   transcriber: {
     provider: "deepgram",
     model: "nova-2",
@@ -107,7 +107,7 @@ const assistantOptions = {
   },
   voice: {
     provider: "11labs",
-    voiceId: "9trkWoeP3j8BTu3R6vyA",
+    voiceId: "1wg2wOjdEWKA7yQD8Kca",
   },
   model: {
     provider: "openai",
